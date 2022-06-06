@@ -1,0 +1,35 @@
+[02-Dec-2021 21:48:20 America/New_York] PHP Warning:  require(/home/htdocs/saved/settings.php): failed to open stream: No such file or directory in /home/ezekcuij/saved.com.ng/db_config.php on line 2
+[02-Dec-2021 21:48:20 America/New_York] PHP Fatal error:  require(): Failed opening required '/home/htdocs/saved/settings.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/ezekcuij/saved.com.ng/db_config.php on line 2
+[02-Dec-2021 21:49:44 America/New_York] PHP Warning:  require(/home/htdocs/saved/settings.php): failed to open stream: No such file or directory in /home/ezekcuij/saved.com.ng/db_config.php on line 2
+[02-Dec-2021 21:49:44 America/New_York] PHP Fatal error:  require(): Failed opening required '/home/htdocs/saved/settings.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/ezekcuij/saved.com.ng/db_config.php on line 2
+[02-Dec-2021 21:50:10 America/New_York] PHP Warning:  require(/home/htdocs/saved/settings.php): failed to open stream: No such file or directory in /home/ezekcuij/saved.com.ng/db_config.php on line 2
+[02-Dec-2021 21:50:10 America/New_York] PHP Fatal error:  require(): Failed opening required '/home/htdocs/saved/settings.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/ezekcuij/saved.com.ng/db_config.php on line 2
+[02-Dec-2021 21:54:40 America/New_York] PHP Warning:  require(/home/home/ykiv/settings.php): failed to open stream: No such file or directory in /home/ezekcuij/saved.com.ng/db_config.php on line 2
+[02-Dec-2021 21:54:40 America/New_York] PHP Fatal error:  require(): Failed opening required '/home/home/ykiv/settings.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/ezekcuij/saved.com.ng/db_config.php on line 2
+[02-Dec-2021 21:55:04 America/New_York] PHP Warning:  require(/home/home/ezekcuij/ykiv/settings.php): failed to open stream: No such file or directory in /home/ezekcuij/saved.com.ng/db_config.php on line 2
+[02-Dec-2021 21:55:04 America/New_York] PHP Fatal error:  require(): Failed opening required '/home/home/ezekcuij/ykiv/settings.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/ezekcuij/saved.com.ng/db_config.php on line 2
+[02-Dec-2021 21:56:14 America/New_York] PHP Warning:  require(/home/ykiv/settings.php): failed to open stream: No such file or directory in /home/ezekcuij/saved.com.ng/db_config.php on line 2
+[02-Dec-2021 21:56:14 America/New_York] PHP Fatal error:  require(): Failed opening required '/home/ykiv/settings.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/ezekcuij/saved.com.ng/db_config.php on line 2
+[02-Dec-2021 21:56:20 America/New_York] PHP Warning:  require(/home/ykiv/settings.php): failed to open stream: No such file or directory in /home/ezekcuij/saved.com.ng/db_config.php on line 2
+[02-Dec-2021 21:56:20 America/New_York] PHP Fatal error:  require(): Failed opening required '/home/ykiv/settings.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/ezekcuij/saved.com.ng/db_config.php on line 2
+[02-Dec-2021 22:30:47 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ezekcuij/saved.com.ng/auth.php on line 71
+[04-Dec-2021 23:18:43 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ezekcuij/saved.com.ng/auth.php on line 71
+[06-Dec-2021 03:11:07 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ezekcuij/saved.com.ng/auth.php on line 71
+[08-Dec-2021 03:38:16 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ezekcuij/saved.com.ng/auth.php on line 71
+[15-Dec-2021 14:47:19 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ezekcuij/saved.com.ng/auth.php on line 71
+[17-Dec-2021 23:24:21 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ezekcuij/saved.com.ng/auth.php on line 71
+[21-Dec-2021 03:27:36 Africa/Lagos] PHP Notice:  Undefined variable: connect_db in /home/ezekcuij/saved.com.ng/model.php on line 15
+[21-Dec-2021 03:27:36 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ezekcuij/saved.com.ng/model.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/ezekcuij/saved.com.ng/model.php on line 15
+[20-Dec-2021 21:30:45 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ezekcuij/saved.com.ng/auth.php on line 71
+[20-Dec-2021 21:38:58 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ezekcuij/saved.com.ng/auth.php on line 71
+[21-Dec-2021 04:34:36 Africa/Lagos] PHP Notice:  Undefined variable: connect_db in /home/ezekcuij/saved.com.ng/model.php on line 15
+[21-Dec-2021 04:34:36 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ezekcuij/saved.com.ng/model.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/ezekcuij/saved.com.ng/model.php on line 15
+[23-Dec-2021 21:39:46 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ezekcuij/saved.com.ng/auth.php on line 71
+[01-Feb-2022 20:34:48 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ezekcuij/saved.com.ng/auth.php on line 71
+[24-May-2022 09:24:31 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ezekcuij/saved.com.ng/auth.php on line 71
