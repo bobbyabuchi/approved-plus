@@ -22,7 +22,7 @@ require_once('model.php');
 <head>
   <?php require("headlinks.php"); ?>
   <title>
-    Saved | Follow up
+    Saved | Follow up & Prayer Requests
   </title>
 </head>
 
@@ -93,12 +93,12 @@ require_once('model.php');
             </div>
             <div class="col-xl-4 col-lg-5 col-md-7 d-flex flex-column ms-auto me-auto ms-lg-auto me-lg-5">
                 <div class="card-body" style="font-size:22px; text-align:center;">
-                Cloud & Hi-Performance Software Protagonists
+                Welcome
                 </div>
               <div class="card card-plain">
                 <div class="card-header">
                   <h4 class="font-weight-bolder text-success">Saved</h4>
-                  <p class="mb-0">Follow up request form</p>
+                  <p class="mb-0">Follow up and prayer request form</p>
                   <?php
                     if(isset($flash_message)){
                       echo $flash_message;

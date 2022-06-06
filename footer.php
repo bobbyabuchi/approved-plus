@@ -1,1 +1,1 @@
-<div class="card-body bg-light">&copy; <?php echo date("Y");?> Saved | <span class="small">Skill & Integrity</span></div>
+<div class="card-body bg-light">&copy; <?php echo date("Y");?> Regenerated Media | <span class="small">Education Technology and Culture</span></div>
